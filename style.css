@@ -1,0 +1,22 @@
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            min-height: 100vh;
+            place-items: center;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: rgb(18, 189, 166);
+        }
+        
+        #container {
+            margin: 0 auto;
+            width: 500px;
+            text-align: center;
+            border: rgb(40, 82, 223) groove 1px;
+            
+        }
